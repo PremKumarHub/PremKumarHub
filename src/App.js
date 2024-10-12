@@ -1,18 +1,17 @@
-import react from react;
-import "./App.css"
-import Header from "./components/common/header/Header";
-
-
+import React from 'react';
+import Header from "./components/common/header/Header"
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
+import './App.css';
 
 function App() {
   return (
     <>
-    
-        <Header />
-        <h1> hello</h1>
-      
-    </>
-  )
+    <Router>
+      <Header />
+   
+    </Router>
+  </>
+  );
 }
 
-export default App
+export default App;
