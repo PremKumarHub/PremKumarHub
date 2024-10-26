@@ -7,6 +7,7 @@ import './App.css';
 function App() {
   return (
     <>
+    <head> hello world</head>
     <Router>
         
         <Header />
