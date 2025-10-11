@@ -1,7 +1,7 @@
-# Hi there, I'm Avinash! 👋
+# Hi there, I'm Prem Kumar! 👋
 
 ## About Me
-I'm a Full Stack Engineer from India who loves turning ideas into working solutions. 
+🌱 Hey there! I’m a Full Stack Engineer from India who loves building smart, simple, and scalable solutions from scratch.
 
 ## My Tech Stack
 
@@ -50,15 +50,15 @@ I'm a Full Stack Engineer from India who loves turning ideas into working soluti
 
 
 I'm also interested in:
-- 🎯 Anime and Light novels 
-- 🏍️ Motorcycles and automotive tech
-- 🚗 Cars and tuning
-- 📱 Tech trends and startups
-- 💲 Finance, markets, and investing
+- 🧠 Psychology & Philosophy 
+- 📱 Tech Trends, AI & Data Science
+- 🚀 Startups & Business
+- 🛠️ Application & Software Projects
+- 📚 Continuous Learning & Personal Growth
 
 ## You can find me on  
 <div align="left">
-    <a href="https://www.linkedin.com/in/avinash-h/" target="_blank">
+    <a href="">
         <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
@@ -66,7 +66,4 @@ I'm also interested in:
 <br>
 I'm always up for a chat! Feel free to reach out!
 
-<!---
-avin4930c/avin4930c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
