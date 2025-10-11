@@ -43,10 +43,11 @@ I'm a Full Stack Engineer from India who loves turning ideas into working soluti
 
 ### Nike Shoe 
 [![View Nike Frontend](https://img.shields.io/badge/Nike%20Frontend-View%20Project-brightgreen?style=for-the-badge)](https://kickspot.netlify.app/)
-[![View Nike Project](https://img.shields.io/badge/Blog%20CMS-View%20Project-brightgreen?style=for-the-badge)](https://github.com/PremKumarHub/Nike)
+
 
 ### Weather App
-[![View Project](https://img.shields.io/badge/Shopping%20Cart-View%20Project-brightgreen?style=for-the-badge)](https://shopping-cart-flax-one.vercel.app/)
+[![View Weather App](https://img.shields.io/badge/Nike%20Frontend-View%20Project-brightgreen?style=for-the-badge)](https://breezeboard.netlify.app/)
+
 
 I'm also interested in:
 - 🎯 Anime and Light novels 
