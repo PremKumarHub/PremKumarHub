@@ -39,7 +39,7 @@ I'm a Full Stack Engineer from India who loves turning ideas into working soluti
 ## Latest Projects
 
 ### Grocery at Next Door — Local Fruit & Grocery E-Commerce Website
-[![View Grocery@nxt_door](https://groceryatnxtdoor.netlify.app/)](https://github.com/PremKumarHub/Groceryatnxtdoor)
+[![View Grocery@nxt_door]([https://groceryatnxtdoor.netlify.app/](https://img.shields.io/badge/Blog%20Frontend-View%20Project-brightgreen?style=for-the-badge))](https://github.com/PremKumarHub/Groceryatnxtdoor)
 
 ### Blog Website with Content Management System (CMS)
 [![View Blog Frontend](https://img.shields.io/badge/Blog%20Frontend-View%20Project-brightgreen?style=for-the-badge)](https://blog-frontend-five-omega.vercel.app)
