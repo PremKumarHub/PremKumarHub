@@ -39,13 +39,13 @@ I'm a Full Stack Engineer from India who loves turning ideas into working soluti
 ## Latest Projects
 
 ### Grocery at Next Door — Local Fruit & Grocery E-Commerce Website
-[![View Grocery@nxt_door](https://img.shields.io/badge/Blog%20Frontend-View%20Project-brightgreen?style=for-the-badge)](https://github.com/PremKumarHub/Groceryatnxtdoor)
+[![View Grocery@nxt_door](https://img.shields.io/badge/Grocery%20Frontend-View%20Project-brightgreen?style=for-the-badge)](https://github.com/PremKumarHub/Groceryatnxtdoor)
 
-### Blog Website with Content Management System (CMS)
-[![View Blog Frontend](https://img.shields.io/badge/Blog%20Frontend-View%20Project-brightgreen?style=for-the-badge)](https://blog-frontend-five-omega.vercel.app)
-[![View Blog CMS](https://img.shields.io/badge/Blog%20CMS-View%20Project-brightgreen?style=for-the-badge)](https://blog-cms-six-omega.vercel.app)
+### Nike Shoe 
+[![View Nike Frontend](https://img.shields.io/badge/Nike%20Frontend-View%20Project-brightgreen?style=for-the-badge)](https://kickspot.netlify.app/)
+[![View Nike Project](https://img.shields.io/badge/Blog%20CMS-View%20Project-brightgreen?style=for-the-badge)](https://github.com/PremKumarHub/Nike)
 
-### Shopping Cart
+### Weather App
 [![View Project](https://img.shields.io/badge/Shopping%20Cart-View%20Project-brightgreen?style=for-the-badge)](https://shopping-cart-flax-one.vercel.app/)
 
 I'm also interested in:
