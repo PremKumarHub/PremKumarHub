@@ -46,7 +46,7 @@
 
 
 ### Weather App
-[![View Weather App](https://img.shields.io/badge/Nike%20Frontend-View%20Project-brightgreen?style=for-the-badge)](https://breezeboard.netlify.app/)
+[![View Weather App](https://img.shields.io/badge/Weather%20App-View%20Project-brightgreen?style=for-the-badge)](https://breezeboard.netlify.app/)
 
 
 I'm also interested in:
