@@ -39,7 +39,7 @@
 ## Latest Projects
 
 ### Grocery at Next Door — Local Fruit & Grocery E-Commerce Website
-[![View Grocery@nxt_door](https://img.shields.io/badge/Grocery%20Frontend-View%20Project-brightgreen?style=for-the-badge)](https://groceryatnxtdoor.netlify.app/)
+[![View Grocery@nxt_door](https://img.shields.io/badge/Grocery%20Frontend-View%20Project-brightgreen?style=for-the-badge)](https://greencart-dun-tau.vercel.app/)
 
 ### Nike Shoe 
 [![View Nike Frontend](https://img.shields.io/badge/Nike%20Frontend-View%20Project-brightgreen?style=for-the-badge)](https://kickspot.netlify.app/)
